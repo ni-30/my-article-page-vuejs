@@ -1,4 +1,10 @@
-A Vue.js progressive web application built on firebase cloud.
+A Vue.js progressive web application to publish articles and stories and further sharing it on social platforms like whatsapp, facebook and twitter.
+
+## Framework Used
+Vue.js
+
+## Cloud Service Used
+Firebase
 
 ## Build Setup
 
