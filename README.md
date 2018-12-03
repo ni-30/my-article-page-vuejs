@@ -1,4 +1,4 @@
-A Vue.js progressive web application to publish articles and stories and further sharing it on social platforms like whatsapp, facebook and twitter.
+A progressive web application to publish articles and stories and further sharing it on social platforms like whatsapp, facebook and twitter.
 
 ## Framework Used
 Vue.js
