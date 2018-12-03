@@ -1,8 +1,8 @@
-# crfdude
-
-> A Vue.js project
+A Vue.js progressive web application built on firebase cloud.
 
 ## Build Setup
+
+Create Firebase web application and config values in cloudService.js  - https://github.com/ni-30/my-article-page-vuejs/blob/master/src/cloudService.js
 
 ``` bash
 # install dependencies
