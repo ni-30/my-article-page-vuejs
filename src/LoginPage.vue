@@ -34,9 +34,8 @@ export default {
                 signInOptions: [
                     // List of OAuth providers supported.
                     cloudService.getFirebase().auth.GoogleAuthProvider.PROVIDER_ID,
-                    // cloudService.getFirebase().auth.FacebookAuthProvider.PROVIDER_ID,
-                    // cloudService.getFirebase().auth.TwitterAuthProvider.PROVIDER_ID,
-                    // cloudService.getFirebase().auth.GithubAuthProvider.PROVIDER_ID
+                    cloudService.getFirebase().auth.FacebookAuthProvider.PROVIDER_ID,
+                    cloudService.getFirebase().auth.TwitterAuthProvider.PROVIDER_ID
                 ],
                 // Other config options...
             });
