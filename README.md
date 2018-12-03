@@ -10,6 +10,8 @@ Firebase
 
 Create Firebase web application and config values in cloudService.js  - https://github.com/ni-30/my-article-page-vuejs/blob/master/src/cloudService.js
 
+Firebase Console: https://console.firebase.google.com/
+
 ``` bash
 # install dependencies
 npm install
